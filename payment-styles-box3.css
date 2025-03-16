@@ -1,0 +1,79 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+body {
+    background-color: rgb(133, 133, 133) ;
+}
+.pw {
+    border-radius: 10px;
+    background-color: rgb(146, 224, 255);
+    width: 700px;
+    height: 400px;
+    padding: 50px;
+    margin-left: 350px;
+    margin-top: 100px;
+}
+.pw h1 {
+    color: black;
+    float: left;
+    font-size: larger;
+    font-family: "Darumadrop One", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.pw- {
+    background-color: rgba(249,249,249,255);
+    border-radius: 10px;
+    margin-left: 150px;
+    height: 425px;
+    padding: 0px;
+    margin-top: -100px;
+}
+.pw- img {
+    width: 80px;
+    cursor: pointer;
+}
+.pw- #google {
+    margin-left: 170px;
+}
+.pw- #apple {
+    margin-left: 85px;
+}
+.pw- #paytm {
+    margin-left: 40px;
+}
+.pw- #razor {
+    margin-left: 40px;
+}
+.pw- #close {
+    text-decoration: none;
+    color: black;
+    font-size: medium;
+    margin-left: 510px;
+    width: 40px;
+}
+/* Footer */
+
+.footer {
+    height: 85px;
+    width: 1485px;
+    padding: 15px;
+    background-color: black;
+    text-align: center;
+    margin-top: 110px;
+}
+.footer p {
+    padding-top: 35px;
+    color: white;
+}
+.price {
+    border-radius: 10px;
+    margin-top: 50px;
+    width: 120px;
+    height: 50px;
+    background-color: white;
+    color: black;
+    padding: 10px;
+    font-weight: bolder;
+}
